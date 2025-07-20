@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-# For improving oneself in a field
+### For improving oneself in a field
 
 I believe that setting small goals is the key.
 
@@ -20,8 +20,8 @@ tip:
 if your current goal is too hard, chunk it down smaller and smaller and smaller.
 
 
-setting small goals for leetcoding
--
+### setting small goals for leetcoding
+
 - lets aim 5 easy and 5 meduim each
     - **Array**
     - **String**
